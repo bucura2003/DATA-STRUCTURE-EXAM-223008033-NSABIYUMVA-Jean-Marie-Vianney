@@ -1,0 +1,16 @@
+Header File: #include <iostream> for input-output operations.
+
+Namespace: using namespace std; to avoid writing std:: before cout.
+
+Variable:
+
+int i = 1; (initializes a counter variable i to 1).
+
+Loop:
+
+while (i <= 5) (runs the loop as long as i is less than or equal to 5).
+
+cout << "This is iteration " << i << endl; (prints the current iteration number).
+
+i++; (increments i by 1 in each iteration to avoid an infinite loop).
+return 0;: Indicates successful program execution.

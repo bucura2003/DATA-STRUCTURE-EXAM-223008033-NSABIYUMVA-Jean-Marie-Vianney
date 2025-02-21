@@ -1,0 +1,3 @@
+•	int → Data type (integer) 
+•	age → Variable name 
+•	25 → Value stored in the variable 

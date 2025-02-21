@@ -1,0 +1,19 @@
+Library Inclusion:
+
+#include <iostream>: This includes the input-output stream library, which is necessary for using cout to display output on the console.
+Namespace:
+
+using namespace std;: This allows the program to directly use components from the standard library (like cout) without needing to prefix them with std::.
+Main Function:
+
+The program begins execution in the int main() function.
+Variable Declaration:
+
+int age = 16;: The program declares an integer variable age and initializes it with the value 16.
+Conditional Check:
+
+The program checks if the value of age is greater than or equal to 18 using an if statement.
+If age >= 18 is true (i.e., the person is 18 or older), it prints "You are an adult.".
+If age is less than 18, the else block runs and prints "You are a minor.".
+return 0;: This line signifies that the program has executed successfully and ends the main() function.
+Program Termination:

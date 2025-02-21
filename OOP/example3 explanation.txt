@@ -1,0 +1,20 @@
+Header File: #include <iostream> for input-output operations.
+
+Namespace: using namespace std; to avoid writing std:: before cin and cout.
+
+Variables:
+
+string name; (to store the user's name).
+
+int age; (to store the user's age).
+
+Input:
+
+cin >> name; (reads the user's name).
+
+cin >> age; (reads the user's age).
+
+Output:
+cout displays a personalized message using the user's input.
+
+return 0;: Indicates successful program execution.

@@ -1,0 +1,1 @@
+This C++ program prints "Hello, World" to the console. It includes the `<iostream>` library for input/output operations, uses the `std` namespace to avoid prefixing `std::`, and contains a `main()` function where the program starts. Inside `main()`, it prints the text using `cout` and ends by returning 0, indicating successful execution.

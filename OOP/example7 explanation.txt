@@ -1,0 +1,4 @@
+The program declares an integer variable age and initializes it to 25.
+It uses an if statement to check whether the person is an adult (age 18-59), a senior citizen (60+), or a minor (below 18).
+Based on the value of age, it prints the appropriate message to the console.
+The program finishes by returning 0, indicating successful execution.

@@ -1,0 +1,2 @@
+This is a basic C++ program that prints "Hello, World" to the console.
+ It includes the necessary library for input/output operations, uses the standard namespace to avoid needing std::, and terminates with a return value of 0 to indicate successful execution.
